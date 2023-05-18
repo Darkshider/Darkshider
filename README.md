@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center"><picture><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWU1MjFiMzYzOGVlZWE3YjQ1MjE5NTYyYjdmNjkzNjlmOTU1N2JjMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/uSWjDaqhuJoAGzxbQK/giphy.gif" width= 50px id="calavera"></picture> 👽 アレキサンダー <i>I'm Darkshider</i> 👽 <picture><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWU1MjFiMzYzOGVlZWE3YjQ1MjE5NTYyYjdmNjkzNjlmOTU1N2JjMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/uSWjDaqhuJoAGzxbQK/giphy.gif" width= 50px id="calavera"></picture></h1>
+        <p align="center">
+            <a href="https://twitter.com/Darkshiders" target="_blank">
+                <img src="https://cdn.icon-icons.com/icons2/615/PNG/256/Twitter_icon-icons.com_56589.png" width= 20px />
+                <img src="https://img.shields.io/github/followers/Darkshider?style=social"/>
+            </a>
+        </p>
 
-<!--
-**Darkshider/Darkshider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   💻About me💻
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ```bash
+     Hey my alias is Darkshider, I am
+  ```
