@@ -9,5 +9,5 @@
    💻About me💻
 
   ```bash
-     Hey my alias is Darkshider, I am
+     Hey my alias is Darkshider, I am passionate about cybersecurity and forensic analysis in IT environments.
   ```
