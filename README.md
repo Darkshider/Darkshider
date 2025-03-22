@@ -17,6 +17,5 @@
 
 ## 💻 About Me 💻
 
-```bash
    Hey, my alias is Darkshider. I am passionate about cybersecurity and forensic analysis in IT environments. 
    I enjoy diving into the depths of cyber threats and leveraging my skills to protect and investigate.
