@@ -1,56 +1,38 @@
-# 🧑‍💻 About Me – Blue Team & Digital Forensics Learner
+# 🛡️ About Me – Blue Team & DFIR Enthusiast
 
-Hey! I'm Darkshider passionate about **defensive cybersecurity**, currently focused on diving deep into the world of the **Blue Team** and **digital forensics**.
+Hi! I'm diving into the world of **defensive cybersecurity**, with a special interest in **Digital Forensics and Incident Response (DFIR)**. I'm learning how to investigate incidents, analyze evidence, and defend systems effectively.
 
-This isn’t a traditional project repository — it’s more of a personal space to document and share my learning journey. I'm here to explore how to protect systems, investigate incidents, and analyze digital traces effectively.
-
----
-
-## 🛡️ What I'm Learning
-
-I'm currently building knowledge and hands-on skills in:
-
-- **Digital Forensics**
-  - Collecting and analyzing evidence (RAM, disk, system artifacts)
-  - Tools like Autopsy, Volatility, FTK Imager, and more
-
-- **Incident Response**
-  - Identifying, containing, and mitigating security incidents
-  - Best practices for documentation and evidence preservation
-
-- **Log Analysis**
-  - Understanding logs from Windows, Linux, and network devices
-  - Detecting suspicious patterns and event correlation
-
-- **Blue Team Tooling**
-  - Working with ELK Stack, Snort, Splunk, Suricata
-  - Exploring classic tools like Sysinternals, Wireshark
-
-- **Threat Hunting Basics**
-  - Hunting threats using IOCs, behavioral patterns, and intuition
+This space is part of my journey — where I document notes, tools, and techniques as I grow.
 
 ---
 
-## 🎯 What I'm Aiming For
+## 🔍 What I'm Focused On
 
-My goal is to build a solid foundation so I can contribute to defensive security teams, participate in real-world investigations, or work in a SOC (Security Operations Center) environment.
-
-I’m not just reading or watching — I’m also **getting hands-on with labs, CTF challenges, and real-world scenarios**.
-
----
-
-## 🧰 Tools I'm Working With
-
-- 🧪 Volatility, Autopsy, FTK Imager  
-- 📊 ELK Stack, Snort, Splunk  
-- 🕵️ Wireshark, TCPDump, NetworkMiner  
-- 📁 Windows Event Viewer, Sysmon, Sysinternals  
+- **Digital Forensics** – Memory, disk, system artifacts  
+- **Incident Response** – Containment, evidence handling  
+- **Log & Network Analysis** – Windows/Linux logs, PCAPs  
+- **Blue Team Tools** – ELK, Wazuh, Sysinternals, Wireshark
 
 ---
 
-## 📚 Resources I Recommend
+## 🧰 Tools I Use
 
-- BlueTeam Labs 
-- HackTheBox
+Volatility · Autopsy · FTK Imager · Splunk · Brim · Sysmon
 
 ---
+
+## 🤝 Let’s Connect
+
+I'm always open to sharing resources and learning with others in Blue Team / DFIR.  
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/alexander-d%C3%ADaz-llanos-d%C3%ADaz/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32"/>
+  </a>
+  <a href="https://x.com/Darkshiders" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="32" height="32"/>
+</p>
+
+---
+
+
