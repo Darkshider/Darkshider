@@ -1,21 +1,56 @@
-<h1 align="center">
-  <picture>
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWU1MjFiMzYzOGVlZWE3YjQ1MjE5NTYyYjdmNjkzNjlmOTU1N2JjMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/uSWjDaqhuJoAGzxbQK/giphy.gif" width="50px" id="calavera">
-  </picture> 
-  👽 アレキサンダー <i>I'm Darkshider</i> 👽 
-  <picture>
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWU1MjFiMzYzOGVlZWE3YjQ1MjE5NTYyYjdmNjkzNjlmOTU1N2JjMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/uSWjDaqhuJoAGzxbQK/giphy.gif" width="50px" id="calavera">
-  </picture>
-</h1>
+# 🧑‍💻 About Me – Blue Team & Digital Forensics Learner
 
-<p align="center">
-  <a href="https://twitter.com/Darkshiders" target="_blank">
-    <img src="https://cdn.icon-icons.com/icons2/615/PNG/256/Twitter_icon-icons.com_56589.png" width="20px" />
-    <img src="https://img.shields.io/github/followers/Darkshider?style=social"/>
-  </a>
-</p>
+Hey! I'm Darkshider passionate about **defensive cybersecurity**, currently focused on diving deep into the world of the **Blue Team** and **digital forensics**.
 
-## 💻 About Me 💻
+This isn’t a traditional project repository — it’s more of a personal space to document and share my learning journey. I'm here to explore how to protect systems, investigate incidents, and analyze digital traces effectively.
 
-   Hey, my alias is Darkshider. I am passionate about cybersecurity and forensic analysis in IT environments. 
-   I enjoy diving into the depths of cyber threats and leveraging my skills to protect and investigate.
+---
+
+## 🛡️ What I'm Learning
+
+I'm currently building knowledge and hands-on skills in:
+
+- **Digital Forensics**
+  - Collecting and analyzing evidence (RAM, disk, system artifacts)
+  - Tools like Autopsy, Volatility, FTK Imager, and more
+
+- **Incident Response**
+  - Identifying, containing, and mitigating security incidents
+  - Best practices for documentation and evidence preservation
+
+- **Log Analysis**
+  - Understanding logs from Windows, Linux, and network devices
+  - Detecting suspicious patterns and event correlation
+
+- **Blue Team Tooling**
+  - Working with ELK Stack, Snort, Splunk, Suricata
+  - Exploring classic tools like Sysinternals, Wireshark
+
+- **Threat Hunting Basics**
+  - Hunting threats using IOCs, behavioral patterns, and intuition
+
+---
+
+## 🎯 What I'm Aiming For
+
+My goal is to build a solid foundation so I can contribute to defensive security teams, participate in real-world investigations, or work in a SOC (Security Operations Center) environment.
+
+I’m not just reading or watching — I’m also **getting hands-on with labs, CTF challenges, and real-world scenarios**.
+
+---
+
+## 🧰 Tools I'm Working With
+
+- 🧪 Volatility, Autopsy, FTK Imager  
+- 📊 ELK Stack, Snort, Splunk  
+- 🕵️ Wireshark, TCPDump, NetworkMiner  
+- 📁 Windows Event Viewer, Sysmon, Sysinternals  
+
+---
+
+## 📚 Resources I Recommend
+
+- BlueTeam Labs 
+- HackTheBox
+
+---
