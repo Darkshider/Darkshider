@@ -17,7 +17,7 @@ This space is part of my journey — where I document notes, tools, and techniqu
 
 ## 🧰 Tools I Use
 
-Volatility · Autopsy · FTK Imager · Splunk · Brim · Sysmon
+Too many to count
 
 ---
 
