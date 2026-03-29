@@ -52,5 +52,5 @@
 
 ### *Certifications*
 
-<img src="/img/HTB.jpeg wid" width="20" a href="https://profile.hackthebox.com/profile/019c306a-ef4b-7195-b985-44aaec8473e4">
+<img src="/img/HTB.jpeg" width="20" a href="https://profile.hackthebox.com/profile/019c306a-ef4b-7195-b985-44aaec8473e4">
 
