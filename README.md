@@ -28,3 +28,29 @@
 ---
 
 ### *Skills & Tools*
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows_Forensics-000000?style=for-the-badge&logo=windows&logoColor=FDF001" />
+  <img src="https://img.shields.io/badge/Linux_Hardening-000000?style=for-the-badge&logo=linux&logoColor=BC13FE" />
+  
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FDF001" />
+  <img src="https://img.shields.io/badge/PowerShell-000000?style=for-the-badge&logo=powershell&logoColor=BC13FE" />
+  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=FDF001" />
+
+  <img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=BC13FE" />
+  <img src="https://img.shields.io/badge/Volatility_3-000000?style=for-the-badge&logo=target&logoColor=FDF001" />
+  <img src="https://img.shields.io/badge/Autopsy-000000?style=for-the-badge&logo=open-source-initiative&logoColor=BC13FE" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=FDF001" />
+  <img src="https://img.shields.io/badge/Elastic_Stack-000000?style=for-the-badge&logo=elastic-stack&logoColor=BC13FE" />
+  <img src="https://img.shields.io/badge/Snort-000000?style=for-the-badge&logo=docsdotrs&logoColor=FDF001" />
+
+  <img src="https://img.shields.io/badge/Obsidian-000000?style=for-the-badge&logo=obsidian&logoColor=BC13FE" />
+  <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=FDF001" />
+</p>
+
+---
+
+### *Certifications*
+
+<img src="/img/HTB.jpeg" a href="https://profile.hackthebox.com/profile/019c306a-ef4b-7195-b985-44aaec8473e4">
+
