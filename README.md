@@ -4,7 +4,7 @@
 
 </div>
 
-<img src="/img/back.gif" style="width:100%; height:auto">
+<img src="/img/back.gif" style="width: 60vw; height:40vh">
 
 <h3 align="center">Cybersecurity Professional</h3>
 <br>
