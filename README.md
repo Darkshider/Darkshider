@@ -4,11 +4,11 @@
 
 </div>
 
-<img src="/img/back.gif" style="width: 60vw; height:40vh">
+<img src="/img/back.gif" style="width: 60vw; height:40vh" alt="HeaderImg">
 
 <h3 align="center">Cybersecurity Professional</h3>
 <br>
-<img src="/img/Lucy.gif" align="right" width="300">
+<img src="/img/Lucy.gif" align="right" width="300" alt="TitleImg">
 
 > ### *About me*
 > Hi! I'm diving into the world of defensive cybersecurity, with a special interest in Digital Forensics and Incident Response (DFIR). I'm learning how to investigate incidents, analyze evidence, and defend systems effectively.
@@ -27,4 +27,4 @@
 
 ---
 
-### 🛠️ INSTALLED_CYBERWARE
+### *Skills & Tools*
