@@ -13,7 +13,7 @@
 > Hi! I'm diving into the world of defensive cybersecurity, with a special interest in Digital Forensics and Incident Response (DFIR). I'm learning how to investigate incidents, analyze evidence, and defend systems effectively.
 >
 > <h3><em>What I'm focused on</em></h3>
-> - Digital Forensics – Memory, disk, system artifacts
+> <li>Digital Forensics – Memory, disk, system artifacts</li>
 > - Incident Response – Containment, evidence handling
 > - Log & Network Analysis – Windows/Linux logs, PCAPs
 > - Blue Team Tools – ELK, Wazuh, Sysinternals, Wireshark
