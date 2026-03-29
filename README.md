@@ -15,10 +15,10 @@
 >
 > <h3><em>What I'm focused on</em></h3>
 > <p align="center">
->   <img src="./img/glass.png" width="15"/>  <em><b>DFIR</b></em><br/>
->  <img src="./img/malware.png" width="15"/>   <em><b>Malware Analysis</b><br/>
->   <img src="./img/gear.png" width="15"/>   <em><b>SOC Operations</b></em><br/>
->   <img src="./img/shield.png" width="15"/>   <em><b>Blue Team</b></em><br/>
+>   <img src="./img/glass.png" width="20"/>  <em><b>DFIR</b></em><br/>
+>  <img src="./img/malware.png" width="20"/>   <em><b>Malware Analysis</b><br/>
+>   <img src="./img/gear.png" width="20"/>   <em><b>SOC Operations</b></em><br/>
+>   <img src="./img/shield.png" width="20"/>   <em><b>Blue Team</b></em><br/>
 </p>
 <br>
 
