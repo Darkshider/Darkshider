@@ -4,23 +4,27 @@
 
 </div>
 
-<img src="/img/back.gif" style="width:60vw; height:40vh">
+<img src="/img/back.gif" style="width:100%; height:auto">
 
 <h3 align="center">Cybersecurity Professional</h3>
 <br>
 <img src="/img/Lucy.gif" align="right" width="300">
 
-> <h3><em>About me</em></h3>
+> ### *About me*
 > Hi! I'm diving into the world of defensive cybersecurity, with a special interest in Digital Forensics and Incident Response (DFIR). I'm learning how to investigate incidents, analyze evidence, and defend systems effectively.
 >
-> <h3><em>What I'm focused on</em></h3>
-> <p align="left">
->   <img src="./img/glass.png" width="15"/>  <em><b>DFIR</b></em><br/>
->  <img src="./img/malware.png" width="15"/>   <em><b>Malware Analysis</b><br/>
->   <img src="./img/gear.png" width="15"/>   <em><b>SOC Operations</b></em><br/>
->   <img src="./img/shield.png" width="15"/>   <em><b>Blue Team</b></em><br/>
-</p>
+> ### *What I'm focused on*
+> <div align="left">
+>
+> ### <img src="/img/glass.png"> &nbsp; `DFIR`
+> ### <img src="/img/malware.png"> &nbsp; `Malware Analysis`
+> ### <img src="/img/gear/png"> &nbsp; `SOC Operations`
+> ### <img src="/img/shield.png"> &nbsp; `Blue Team`
+>
+> </div>
+
 <br>
 
-### 🛠️ INSTALLED_CYBERWARE
+---
 
+### 🛠️ INSTALLED_CYBERWARE
