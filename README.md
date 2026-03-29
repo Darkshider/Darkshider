@@ -52,5 +52,22 @@
 
 ### *Certifications*
 
-<img src="/img/HTB.jpeg" width="20" a href="https://profile.hackthebox.com/profile/019c306a-ef4b-7195-b985-44aaec8473e4">
+<div align="left">
+  <img src="/img/HTB.jpeg" width="25" valign="middle"> <a href="https://profile.hackthebox.com/profile/019c306a-ef4b-7195-b985-44aaec8473e4" style="text-decoration: none;"><b><code> CDSA </code></b></a>
+</div>
 
+<div align="left">
+  <img src="/img/btl1.png" width="25" valign="middle"> <a href="https://www.credly.com/badges/7a8d9d9f-6864-4602-90f2-4e76d7f65c77/public_url" style="text-decoration: none;"><b><code> BTL1 </code></b></a>
+</div>
+
+<div align="left">
+  <img src="/img/cjde.png" width="25" valign="middle"> <a href="https://www.credly.com/badges/54b237fe-47ee-4983-ba3c-311a43bf976e/public_url" style="text-decoration: none;"><b><code> CJDE </code></b></a>
+</div>
+
+<div align="left">
+  <img src="/img/ecdfp.svg" width="25" valign="middle"> <a href="https://certs.ine.com/39fa48c9-7009-482d-881a-9857edd238d7#acc.peoFbwTS" style="text-decoration: none;"><b><code> eCDFP </code></b></a>
+</div>
+
+<div align="left">
+  <img src="/img/thm.svg" width="25" valign="middle"> <a href="https://tryhackme.com/p/Darkshider" style="text-decoration: none;"><b><code> THM Profile </code></b></a>
+</div>
