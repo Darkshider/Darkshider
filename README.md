@@ -7,15 +7,21 @@
 <img src="/img/back.gif" style="width:60vw; height:40vh">
 
 <h3 align="center">Cybersecurity Professional</h3>
+<br>
 <img src="/img/Lucy.gif" align="right" width="300">
 
 > <h3><em>About me</em></h3>
 > Hi! I'm diving into the world of defensive cybersecurity, with a special interest in Digital Forensics and Incident Response (DFIR). I'm learning how to investigate incidents, analyze evidence, and defend systems effectively.
 >
 > <h3><em>What I'm focused on</em></h3>
-> <li>Digital Forensics – Memory, disk, system artifacts</li>
-> - Incident Response – Containment, evidence handling
-> - Log & Network Analysis – Windows/Linux logs, PCAPs
-> - Blue Team Tools – ELK, Wazuh, Sysinternals, Wireshark
+> <p align="center">
+>   <img src="./img/glass.png" width="15"/>  <em><b>DFIR</b></em><br/>
+>  <img src="./img/malware.png" width="15"/>   <em><b>Malware Analysis</b><br/>
+>   <img src="./img/gear.png" width="15"/>   <em><b>SOC Operations</b></em><br/>
+>   <img src="./img/shield.png" width="15"/>   <em><b>Blue Team</b></em><br/>
+</p>
+<br>
+
+---
 
 ### 🛠️ INSTALLED_CYBERWARE
