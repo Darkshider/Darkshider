@@ -14,7 +14,7 @@
 > Hi! I'm diving into the world of defensive cybersecurity, with a special interest in Digital Forensics and Incident Response (DFIR). I'm learning how to investigate incidents, analyze evidence, and defend systems effectively.
 >
 > <h3><em>What I'm focused on</em></h3>
-> <p align="center">
+> <p align="left" >
 >   <img src="./img/glass.png" width="20"/>  <em><b>DFIR</b></em><br/>
 >  <img src="./img/malware.png" width="20"/>   <em><b>Malware Analysis</b><br/>
 >   <img src="./img/gear.png" width="20"/>   <em><b>SOC Operations</b></em><br/>
