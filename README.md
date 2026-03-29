@@ -16,10 +16,10 @@
 > ### *What I'm focused on*
 > <div align="left">
 >
-> ### <img src="/img/glass.png" width="15"> &nbsp; `DFIR`
-> ### <img src="/img/malware.png" width="15"> &nbsp; `Malware Analysis`
-> ### <img src="/img/gear.png" width="15"> &nbsp; `SOC Operations`
-> ### <img src="/img/shield.png" width="15"> &nbsp; `Blue Team`
+> ### <img src="/img/glass.png" width="20"> &nbsp; `DFIR`
+> ### <img src="/img/malware.png" width="20"> &nbsp; `Malware Analysis`
+> ### <img src="/img/gear.png" width="20"> &nbsp; `SOC Operations`
+> ### <img src="/img/shield.png" width="20"> &nbsp; `Blue Team`
 >
 > </div>
 
